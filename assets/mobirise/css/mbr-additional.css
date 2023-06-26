@@ -1284,16 +1284,15 @@ a {
 .cid-tim2LGbvHv a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-caption):hover {
   background-image: none;
 }
-.cid-tim8TgPnFf {
-  background-color: #93917e;
+.cid-tIiJnWorpC {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/ame-gonzalez-1920x1280.png");
 }
-.cid-tim8TgPnFf .container-fluid {
-  padding-right: 0;
-}
-.cid-tim8TgPnFf .mbr-fallback-image.disabled {
+.cid-tIiJnWorpC .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tim8TgPnFf .mbr-fallback-image {
+.cid-tIiJnWorpC .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1302,59 +1301,27 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tim8TgPnFf .title {
-  display: flex;
-  align-items: center;
+.cid-tIiJnWorpC .mbr-section-title {
+  color: #FFFFFF;
 }
-.cid-tim8TgPnFf .title-wrapper {
-  width: 100%;
+.cid-tIiJnWorpC .mbr-section-subtitle {
+  color: #FFFFFF;
+  margin-top: 20px;
 }
-.cid-tim8TgPnFf .title-wrapper .mbr-section-subtitle {
-  margin-bottom: 24px;
+.cid-tIiJnWorpC .mbr-text {
+  color: #FFFFFF;
+  margin-top: 20px;
 }
-@media (max-width: 992px) {
-  .cid-tim8TgPnFf .title-wrapper .mbr-section-subtitle {
-    margin-bottom: 19.5px;
-  }
+.cid-tIiJnWorpC .mbr-section-btn {
+  margin-top: 18px;
 }
-.cid-tim8TgPnFf .title-wrapper .mbr-section-title {
-  margin-bottom: 24px;
+.cid-tIiJnWorpC .mbr-section-btn .btn.btn-white {
+  background-color: transparent !important;
+  border-color: #FFFFFF !important;
 }
-@media (max-width: 992px) {
-  .cid-tim8TgPnFf .title-wrapper .mbr-section-title {
-    margin-bottom: 19.5px;
-  }
-}
-.cid-tim8TgPnFf .title-wrapper .mbr-text {
-  margin-bottom: 48px;
-}
-@media (max-width: 992px) {
-  .cid-tim8TgPnFf .title-wrapper .mbr-text {
-    margin-bottom: 19.5px;
-  }
-}
-@media (max-width: 992px) {
-  .cid-tim8TgPnFf .image-wrapper {
-    margin-top: 39px;
-  }
-}
-.cid-tim8TgPnFf .image-wrapper img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-.cid-tim8TgPnFf .mbr-section-subtitle {
-  color: #f8f8f8;
-}
-.cid-tim8TgPnFf .mbr-section-title {
-  color: #181818;
-}
-.cid-tim8TgPnFf .mbr-text {
-  color: #f8f8f8;
-}
-.cid-tim8TgPnFf .mbr-section-title,
-.cid-tim8TgPnFf .mbr-section-btn {
-  color: #f8f8f8;
+.cid-tIiJnWorpC .mbr-section-btn .btn.btn-black {
+  background-color: transparent !important;
+  border-color: #303030 !important;
 }
 .cid-tGA0xftMR7 {
   padding-top: 0rem;
