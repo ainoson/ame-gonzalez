@@ -1518,6 +1518,138 @@ a {
 .cid-tGA0y166hX .mbr-section-title {
   color: #93917e;
 }
+.cid-tWrwBEp8pq {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tWrwBEp8pq .mbr-overlay {
+  z-index: 1;
+}
+.cid-tWrwBEp8pq .main-container {
+  display: flex;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #7F8678;
+  border-top: 1px solid #7F8678;
+  margin-top: -1px;
+  position: relative;
+  z-index: 2;
+}
+.cid-tWrwBEp8pq .row-reverse {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.cid-tWrwBEp8pq .text-container {
+  height: auto;
+  border-bottom: 1px solid #7F8678;
+  background: #93917e;
+}
+@media (min-width: 992px) {
+  .cid-tWrwBEp8pq .text-container {
+    border-bottom: none;
+    border-right: 1px solid #7F8678;
+    border-right: none;
+    border-left: 1px solid #7F8678;
+  }
+}
+.cid-tWrwBEp8pq .text-wrap {
+  display: flex;
+  flex-direction: column;
+  padding: 25px 32px;
+  margin-bottom: auto;
+}
+@media (min-width: 576px) {
+  .cid-tWrwBEp8pq .text-wrap {
+    max-width: 520px;
+  }
+}
+.cid-tWrwBEp8pq .main-text {
+  width: 100%;
+  margin: 0;
+}
+.cid-tWrwBEp8pq .text {
+  color: #ffffff;
+}
+.cid-tWrwBEp8pq .mobi-mbri-arrow-next {
+  margin-left: 5px;
+}
+.cid-tWrwBEp8pq .mobi-mbri-arrow-prev {
+  margin-right: 5px;
+}
+.cid-tWrwBEp8pq .item-wrapper {
+  width: 100%;
+}
+.cid-tWrwBEp8pq .item-img {
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+.cid-tWrwBEp8pq .item-img img {
+  object-fit: cover;
+  height: auto;
+  transition: 1.16s;
+  transform: scale(1.05);
+  transform-origin: 100% 50%;
+  width: 100%;
+  transform-style: preserve-3d;
+}
+.cid-tWrwBEp8pq .item-img:hover img {
+  transform: scale(1);
+}
+.cid-tWrwBEp8pq .item-title {
+  line-height: 1.25em;
+}
+.cid-tWrwBEp8pq .mbr-section-title {
+  line-height: 1.25em;
+  color: #ffffff;
+}
+.cid-tWrwBEp8pq .card-container {
+  display: flex;
+}
+@media (max-width: 767px) {
+  .cid-tWrwBEp8pq .card-container {
+    flex-wrap: wrap;
+  }
+}
+.cid-tWrwBEp8pq .card {
+  padding: 60px 60px 23px;
+  border-radius: 0;
+}
+@media (max-width: 575px) {
+  .cid-tWrwBEp8pq .card {
+    padding: 35px 35px 23px;
+  }
+}
+.cid-tWrwBEp8pq .card:first-child {
+  border-bottom: 1px solid #7F8678;
+}
+@media (min-width: 576px) {
+  .cid-tWrwBEp8pq .card:first-child {
+    border-right: 1px solid #7F8678;
+    border-bottom: none;
+  }
+}
+.cid-tWrwBEp8pq .data-item {
+  display: flex;
+  align-items: center;
+}
+.cid-tWrwBEp8pq .data-item .iconfont-wrapper {
+  margin-right: 10px;
+}
+.cid-tWrwBEp8pq .link-wrap {
+  margin: 30px 0 6px;
+}
+.cid-tWrwBEp8pq .text-art {
+  flex-grow: 1;
+}
+.cid-tWrwBEp8pq .text-with-round {
+  color: #ffffff;
+}
+.cid-tWrwBEp8pq .link-contacts {
+  color: #93917e;
+}
+.cid-tWrwBEp8pq P {
+  color: #93917e;
+}
 .cid-tHTXYvkKWB {
   padding-top: 7rem;
   padding-bottom: 7rem;
@@ -2072,6 +2204,61 @@ a {
 }
 .cid-tz8fLu1kNV H3 {
   color: #f8f8f8;
+}
+.cid-tWrAIaHIn7 {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tWrAIaHIn7 .row {
+  align-items: center;
+}
+.cid-tWrAIaHIn7 .mbr-section-subtitle {
+  color: #bbbbbb;
+}
+.cid-tWrAIaHIn7 .mbr-text,
+.cid-tWrAIaHIn7 .mbr-section-btn {
+  color: #000000;
+}
+.cid-tWrAIaHIn7 .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  width: 100%;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-tWrAIaHIn7 .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #666666;
+  border: 1px solid #efefef;
+  border-radius: 50%;
+  padding: 0.6rem;
+  transition: all 0.3s;
+  display: block;
+  cursor: pointer;
+}
+.cid-tWrAIaHIn7 .social-list .mbr-iconfont-social:hover {
+  background: #93917e;
+  color: white;
+}
+.cid-tWrAIaHIn7 .social-list .soc-item {
+  margin-right: 1rem;
+}
+.cid-tWrAIaHIn7 .social-list a {
+  margin: 0;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+}
+@media (max-width: 767px) {
+  .cid-tWrAIaHIn7 .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-tWrAIaHIn7 .mbr-text-title {
+  color: #bbbbbb;
 }
 .cid-tim327Ct6S {
   padding-top: 5rem;
